@@ -1,0 +1,7 @@
+{
+    "type": "soap",
+    "groups": [
+        "ESBAPIAdminGroup",
+        "Test Group #2"
+    ]
+}

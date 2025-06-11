@@ -1,0 +1,9 @@
+<package id="io.toro.new-package" context-path="/new-package" version="1.0.0-SNAPSHOT" stateOnStartup="STARTED">
+  <package-dependencies/>
+  <startup-services/>
+  <shutdown-services/>
+  <jms-destinations/>
+  <endpoints/>
+  <spring-contexts/>
+  <solr-cores/>
+</package>

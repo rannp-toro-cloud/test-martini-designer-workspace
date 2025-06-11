@@ -1,0 +1,38 @@
+{
+    "authTypes": [
+        "OAUTH2",
+        "BASIC"
+    ],
+    "info": {
+        "title": "",
+        "version": "",
+        "termsOfService": "",
+        "contact": {
+            "name": "",
+            "email": "",
+            "url": ""
+        },
+        "license": {
+            "name": "",
+            "url": ""
+        },
+        "description": ""
+    },
+    "basePath": "MyApi",
+    "consumes": [
+        "application/xml"
+    ],
+    "scopeDefinitions": [
+        {
+            "name": "read:data",
+            "description": "Allows to read data"
+        },
+        {
+            "name": "write:data",
+            "description": "Allows to write data"
+        }
+    ],
+    "scopes": [
+        "read:data"
+    ]
+}
